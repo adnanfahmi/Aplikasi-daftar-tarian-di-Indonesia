@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Tarian Tradisional</string>
+    <string name="heroes_name">Nama Tarian</string>
+    <string name="from">Asal</string>
+    <string name="about">About</string>
+    <string name="grid">Grid</string>
+    <string name="with_cardview">with CardView</string>
+    <string name="description">deskripsi</string>
+    <string name="favorite">Favorite</string>
+    <string name="share">Share</string>
+    <string name="nama">Fahmi Adnan Fathoni</string>
+    <string name="email">fahmi.adnan085@gmail.com</string>
+</resources>
